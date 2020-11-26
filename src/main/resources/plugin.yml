@@ -1,0 +1,17 @@
+name: ToggleChat
+version: 1.0
+main: dev.alexisok.togglechat.ToggleChat
+description: Allows users to toggle the chat.
+laod: STARTUP
+author: AlexIsOK
+website: https://alexisok.dev/ToggleChat
+commands: 
+  togglechat:
+    description: Toggles the chat for a player
+    usage: "Usage: /togglechat"
+    permission: togglechat.use
+permissions:
+  togglechat.use:
+    description: Allow users to toggle the chat
+    default: true
+api-version: 1.16
