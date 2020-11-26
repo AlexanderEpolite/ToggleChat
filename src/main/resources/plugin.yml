@@ -4,7 +4,7 @@ main: dev.alexisok.togglechat.ToggleChat
 description: Allows users to toggle the chat.
 laod: STARTUP
 author: AlexIsOK
-website: https://alexisok.dev/ToggleChat
+website: https://alexisok.dev/
 commands: 
   togglechat:
     description: Toggles the chat for a player
