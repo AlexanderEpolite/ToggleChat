@@ -8,5 +8,4 @@ Note: this toggles chat for individual users, not globally.
 `togglechat.use` - use the /togglechat plugin.
 
 ## Discord
-
-https://discord.gg/z2xCf73
+https://discord.alexisok.dev
